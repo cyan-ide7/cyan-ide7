@@ -4,7 +4,7 @@
 
  
 
-# Hello, I'm Cyan-Ide7! 👋
+# Hello, I'm SUBHAM DEY! 👋
 
 ## About Me
 - 🌱 I’m currently learning computer science and open-source contributions.
