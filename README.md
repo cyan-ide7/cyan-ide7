@@ -12,7 +12,7 @@
 - 📫 How to reach me: subhamdey228540@gmail.com
 - 
 - 👯 I’m looking to collaborate on ros2 and also learn new technologies
-- 💬 Ask me about quantum computing and robotics maybe anything
+- 💬 Ask me about robotics maybe anything
 
 
 
