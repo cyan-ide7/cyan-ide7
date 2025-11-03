@@ -11,7 +11,7 @@
 -  currently working on VLA  models and applications 
 -  How to reach me: subhamdey228540@gmail.com
 
-   https://discord.com/users/1142797663234953296
+  DISCORD - cyan_ide7#7272
 
 
 
