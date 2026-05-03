@@ -1,21 +1,42 @@
-## Hi there 👋
+````md
+<pre>
 
+                               _     _     ______ 
+                              (_)   | |   |____  |
+   ___ _   _  __ _ _ __ ______ _  __| | ___   / / 
+  / __| | | |/ _` | '_ \______| |/ _` |/ _ \ / /  
+ | (__| |_| | (_| | | | |     | | (_| |  __// /   
+  \___|\__, |\__,_|_| |_|     |_|\__,_|\___/_/    
+        __/ |                                     
+       |___/                                      
 
+</pre>
 
- 
-#  I'm SUBHAM DEY! 
+```bash
+$ whoami
+cyan-ide7
 
-## About Me
--  I’m currently learning computer science and open-source contributions.
--  I love coding and working on interesting projects.
--  currently working on VLA  models and applications 
--  How to reach me:
+$ cat about.txt
+Robotics developer focused on ROS2, simulation, and intelligent systems.
+Working on quadrupeds, manipulation, and autonomous robotics.
 
-   subhamdey228540@gmail.com
+$ cat current_focus.txt
+- Quadruped locomotion 
+- Vision-Language-Action robotics
+- Simulation + real-world integration
+- Control systems and embedded robotics
 
-   DISCORD - cyan_ide7#7272
+$ cat projects.txt
 
+$ cat skills.txt
+ Python | ROS2 | Gazebo | STM32 | Docker | PyTorch | Computer Vision
 
+$ cat links.txt
+github   → https://github.com/cyan-ide7
+linkedin → https://www.linkedin.com/in/subham-dey
 
+$ exit
+````
 
-
+```
+```
