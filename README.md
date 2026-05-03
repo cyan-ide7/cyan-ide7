@@ -10,9 +10,6 @@
         __/ |                                     
        |___/                                      
 
-
-
-```bash
 $ whoami
 cyan-ide7
 
