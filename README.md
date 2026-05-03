@@ -33,7 +33,7 @@ $ cat skills.txt
 
 $ cat links.txt
 github   → https://github.com/cyan-ide7
-linkedin → https://www.linkedin.com/in/subham-dey
+linkedin → www.linkedin.com/in/subhamdey33
 
 $ exit
 ````
