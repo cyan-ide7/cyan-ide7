@@ -22,7 +22,7 @@ Working on quadrupeds, manipulation, and autonomous robotics.
 $ cat current_focus.txt
 - Quadruped locomotion 
 - Vision-Language-Action robotics
-- Simulation + real-world integration
+- Simulation 
 - Control systems and embedded robotics
 
 $ cat projects.txt
