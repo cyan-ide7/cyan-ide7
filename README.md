@@ -28,7 +28,16 @@ $ cat current_focus.txt
 $ cat projects.txt
 
 $ cat skills.txt
- Python | ROS2 | Gazebo | STM32 | Docker | PyTorch | Computer Vision
+PROGRAMING 
+C/C++ , PYTHON, LUA, TypeScript
+EMBEDDED SYSTEMS
+MICROCONTROLLERS, SENSOR INTEGRATION, 
+SIMULATION 
+ROS, LINUX, GAZEBO, COPPELIASIM , Blender, CAD, Unity
+DEVELOMENT
+GIT ACTIONS , CI/CD, DOCKER, 
+ML
+Pytorch, LLMs, agentic- ai 
 
 $ cat links.txt
 github   → https://github.com/cyan-ide7
