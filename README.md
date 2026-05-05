@@ -28,16 +28,16 @@ $ cat current_focus.txt
 $ cat projects.txt
 
 $ cat skills.txt
-PROGRAMING 
-C/C++ , PYTHON, LUA, TypeScript
+PROGRAMMING
+  C/C++, Python, Lua, TypeScript
 EMBEDDED SYSTEMS
-MICROCONTROLLERS, SENSOR INTEGRATION, 
-SIMULATION 
-ROS, LINUX, GAZEBO, COPPELIASIM , Blender, CAD, Unity
-DEVELOMENT
-GIT ACTIONS , CI/CD, DOCKER, 
-ML
-Pytorch, LLMs, agentic- ai 
+  Microcontrollers, Sensor Integration
+SIMULATION
+  ROS2, Linux, Gazebo, CoppeliaSim, Blender, CAD, Unity
+DEVELOPMENT
+  Git Actions, CI/CD, Docker
+MACHINE LEARNING
+  PyTorch, LLMs, Agentic-AI
 
 $ cat links.txt
 github   → https://github.com/cyan-ide7
