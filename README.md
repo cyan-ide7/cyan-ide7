@@ -15,9 +15,6 @@
 $ whoami
 cyan-ide7
 
-$ cat about.txt
-Robotics developer focused on ROS2, simulation, and intelligent systems.
-Working on quadrupeds, manipulation, and autonomous robotics.
 
 $ cat current_focus.txt
 - Quadruped locomotion 
@@ -25,21 +22,8 @@ $ cat current_focus.txt
 - Simulation 
 - Control systems and embedded robotics
 
-$ cat projects.txt
-
-$ cat skills.txt
-PROGRAMMING
-  C/C++, Python, Lua, TypeScript
-EMBEDDED SYSTEMS
-  Microcontrollers, Sensor Integration
-SIMULATION
-  ROS2, Linux, Gazebo, CoppeliaSim, Blender, CAD, Unity
-DEVELOPMENT
-  Git Actions, CI/CD, Docker
-MACHINE LEARNING
-  PyTorch, LLMs, Agentic-AI
-
 $ cat links.txt
+aboutme  → https://cyan-ide7.github.io/read.me/
 github   → https://github.com/cyan-ide7
 linkedin → www.linkedin.com/in/subhamdey33
 
