@@ -13,7 +13,7 @@
 <pre>                                    
 
 $ whoami
-cyan-ide7
+Subham Dey
 
 
 $ cat current_focus.txt
