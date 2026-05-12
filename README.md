@@ -28,9 +28,10 @@ github   → https://github.com/cyan-ide7
 linkedin → www.linkedin.com/in/subhamdey33
 
 $ exit
-````
 
 https://cyan-ide7.github.io/TunedIn/
+````
+
 
 
 
